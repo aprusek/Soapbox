@@ -16,12 +16,12 @@ Give it it's own run level.<BR><BR>
 It is too big, too complex, and controls everything.<BR>
 2 Million lines of code... good luck understanding that.<BR>
 <BR>
-Andriod does not use systemd.<BR>
+Android does not use systemd.<BR>
 Busybox does not use systemd.<BR>
 *BSD* does not use systemd.<BR>
 Commercial Unix variants do not use systemd.<BR>
 <BR>
-Ask the Internet (or your favourtie AI) what happens when a system is started in single user mode and systemd is present.<BR>
+Ask the Internet (or your favourite AI) what happens when a system is started in single user mode and systemd is present.<BR>
 You will either laugh or cry<BR>
 
 <H1>MMBASIC</H1>
@@ -56,7 +56,7 @@ CPM 3.x has been mentioned as being in development for quite some time.<BR>
 In the day I was a fan of CPM 3.0 but there is little I can't do with what I have now.<BR>
 <BR>
 </BR>The author has shared his collection of CPM software which is quit extensive.<BR>
-User Groups of the time released software on floppy disks that coudl be downloaded from Bulletin Boards.<BR>
+User Groups of the time released software on floppy disks that could be downloaded from Bulletin Boards.<BR>
 Many years ago the biggest collections were importalised on CDROM.<BR>
 https://archive.org/details/CPM_CD-ROM_Walnut_Creek_November_1994
 
@@ -64,7 +64,7 @@ https://archive.org/details/CPM_CD-ROM_Walnut_Creek_November_1994
 <H1>Software by Committee (Featureitis)</H1>
 Just how many options do simple commands really need?<BR>
 "ls" is a great example... UPPERCASE options lowercase options --LongDescriptiveOptions <BR>
-Next we will have emoji options or unicode characters as options.<BR>
+Next we will have emoji options or Unicode characters as options.<BR>
 
 <H1>#include kitchenSink.h </H1>
 OR Why does my program need 32G of RAM? <BR>
