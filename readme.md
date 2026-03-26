@@ -80,3 +80,19 @@ SAD to see them go
 FFS<BR>
 How many random (and hidden) places can a configuration item live<BR>
 At least it does not hide files under mount points<BR>
+
+<H1>The code is self documenting</H1>
+This has many variations<BR>
+It is a no-code solution<BR>
+Programming through a graphical UI<BR>
+COBOL<BR>
+AI will document the code for you<BR>
+In every case above someone will ask... WTF does this do again?<BR>
+Or... is that intentional, is it a bug or a feature<BR>
+
+<H1>The USB-C non-standard</H1>
+Is it a power-only or data cable<BR>
+What voltage? What power output? Depends on the chip in the cable and what is being connected<BR>
+Yes... the cable could be 'smart"<BR>
+
+
