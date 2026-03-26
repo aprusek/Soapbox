@@ -95,4 +95,6 @@ Is it a power-only or data cable<BR>
 What voltage? What power output? Depends on the chip in the cable and what is being connected<BR>
 Yes... the cable could be 'smart"<BR>
 
+<h1>High Gloss Touch Screens</h1>
+Who thought this was a good idea????
 
