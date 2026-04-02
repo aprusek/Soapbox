@@ -10,5 +10,5 @@ In the day I was a fan of CPM 3.0 but there is little I can't do with what I hav
 <BR>
 </BR>The author has shared his collection of CPM software which is quit extensive.<BR>
 User Groups of the time released software on floppy disks that could be downloaded from Bulletin Boards.<BR>
-Many years ago the biggest collections were importalised on CDROM.<BR>
+Many years ago the biggest collections were immortalised on CDROM.<BR>
 https://archive.org/details/CPM_CD-ROM_Walnut_Creek_November_1994
