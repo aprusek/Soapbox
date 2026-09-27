@@ -1,5 +1,3 @@
-<h1>SYSTEMD</H1>
-
 <H1>SYSTEMD</H1>
 It exists and it is not going away in a hurry.<BR>
 There are many pages written on how good it is and how bad it is.<BR>
